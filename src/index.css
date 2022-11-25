@@ -1,0 +1,17 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    
+   
+}
+
+body{
+    margin: 0% 20%;
+    background-color: #baacb3;
+}
+
+h3{
+    color: gray;
+}
